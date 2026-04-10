@@ -8,14 +8,14 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-     <h1>Hello Everyone</h1>
+    
+     
      <div>
+      <h1>Hello Everyone</h1>
       <p>I'm Aarav Karn From ECE1</p>
      </div>
-
-    </>
-  )
+ 
+  );
 }
 
 export default App
